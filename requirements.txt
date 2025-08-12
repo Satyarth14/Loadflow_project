@@ -1,0 +1,5 @@
+pandapower
+pandas
+matplotlib
+numba
+python-igraph    # optional (only if you want pandapower plotting)
