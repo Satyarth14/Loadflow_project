@@ -25,24 +25,6 @@ This project allows users to:
   - PV generation profile
   - Battery state of charge, charge/discharge, and tariff overlay
 
----
-
-## 📂 Project Structure
-
-loadflow_project/
-│
-├── loadflow_project.py # Main integrated script
-├── requirements.txt # Dependencies
-├── README.md # This file
-├── results/ # Output folder
-│ ├── bus_results.csv
-│ ├── line_results.csv
-│ ├── pv_results_YYYY-MM-DD_to_YYYY-MM-DD.csv
-│ ├── pv_battery_results.csv
-│ ├── voltage_profile.png
-│ ├── pv_power_profile.png
-│ └── pv_battery_optimization.png
-
 
 ---
 
